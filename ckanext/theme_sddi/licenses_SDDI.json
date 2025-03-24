@@ -253,5 +253,44 @@
     "status": "active",
     "title": "Apache License 2.0",
     "url": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  {
+    "domain_content": false,
+    "domain_data": true,
+    "domain_software": true,
+    "family": "",
+    "id": "CC0",
+    "maintainer": "",
+    "od_conformance": "approved",
+    "osd_conformance": "approved",
+    "status": "active",
+    "title": "CC0: Public Domain",
+    "url": "https://creativecommons.org/public-domain/cc0/"
+  },
+  {
+    "domain_content": false,
+    "domain_data": true,
+    "domain_software": true,
+    "family": "",
+    "id": "mit",
+    "maintainer": "",
+    "od_conformance": "approved",
+    "osd_conformance": "approved",
+    "status": "active",
+    "title": "MIT",
+    "url": "https://opensource.org/license/mit"
+  },
+  {
+    "domain_content": false,
+    "domain_data": true,
+    "domain_software": true,
+    "family": "",
+    "id": "bsd",
+    "maintainer": "",
+    "od_conformance": "approved",
+    "osd_conformance": "approved",
+    "status": "active",
+    "title": "BSD",
+    "url": "https://opensource.org/license/bsd-3-clause"
   }
 ]
